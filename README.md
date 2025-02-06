@@ -52,7 +52,7 @@ A dedicated group of developers, designers, and innovators bringing this project
 🔗 Stay tuned for updates!
 
 ### 📧 Contact Us
-For any inquiries, reach out to us at [your email or Discord link].
+For any inquiries, reach out to us at brainwavebrigades@gmail.com.
 
 🛠 **Happy Coding!** 💻🚀
 
