@@ -1,7 +1,11 @@
-# 📌 Project Name
+# 📌 Back2Roots
 
 ### 🌟 Overview
-Welcome to **Project Name**, an innovative initiative by our team to solve [briefly describe the problem your project addresses]. This project aims to [describe the core goal of the project], leveraging modern technologies and creative solutions.
+Welcome to **Back2Roots**, an innovative initiative by our team.
+🔥 What We’re Building
+A dynamic alumni network website to connect alumni with students and the institution
+Features like event & webinar listings, Hall of Fame, discussion forums, and mentorship programs
+A modern, responsive interface with engaging visuals and seamless navigation, leveraging modern technologies and creative solutions.
 
 ### 🛠 Tech Stack
 Our project is built using:
@@ -19,12 +23,13 @@ Our project is built using:
 ### 🏆 Our Team
 We are a group of passionate developers collaborating to bring this project to life:
 
-| Name          | Role                  | GitHub Profile |
-|--------------|----------------------|---------------|
-| **Your Name** | Lead Developer       | [@yourgithub](https://github.com/yourgithub) |
-| **Member 2** | Backend Developer    | [@member2](https://github.com/member2) |
-| **Member 3** | Frontend Developer   | [@member3](https://github.com/member3) |
-| **Member 4** | Database Specialist  | [@member4](https://github.com/member4) |
+|     Name     |        Role          |                    GitHub Profile                    |
+|--------------|----------------------|------------------------------------------------------|
+| **Abhi**     | Backend Developer    | [@abhitrambadiya](https://github.com/abhitrambadiya) |
+| **Shiv**     | Backend Developer    | [@member2](https://github.com/member2) |
+| **Atharv**   | Frontend Developer   | [@member3](https://github.com/member3) |
+| **Tanishq**  | Database Specialist  | [@member4](https://github.com/member4) |
+| **Tanish**   | Database Specialist  | [@member4](https://github.com/member4) |
 
 ### 🚀 How to Run Locally
 1. Clone this repository:
@@ -41,8 +46,10 @@ We are a group of passionate developers collaborating to bring this project to l
    npm start
    ```
 
-### 🤝 Contributing
-We welcome contributions from everyone! Feel free to submit issues, fork the repo, and create pull requests.
+👥 Our Team
+A dedicated group of developers, designers, and innovators bringing this project to life with a shared vision for a strong alumni-student bond.
+
+🔗 Stay tuned for updates!
 
 ### 📧 Contact Us
 For any inquiries, reach out to us at [your email or Discord link].
