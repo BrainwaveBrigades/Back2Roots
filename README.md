@@ -25,17 +25,17 @@ We are a group of passionate developers collaborating to bring this project to l
 
 |     Name     |        Role          |                    GitHub Profile                    |
 |--------------|----------------------|------------------------------------------------------|
-| **Abhi**     | Backend Developer    | [@abhitrambadiya](https://github.com/abhitrambadiya) |
-| **Shiv**     | Frontend Developer   | [@member2](https://github.com/member2) |
-| **Atharv**   | Frontend Developer   | [@member3](https://github.com/member3) |
-| **Tanishq**  | Database Specialist  | [@member4](https://github.com/member4) |
-| **Tanish**   | Database Specialist  | [@member4](https://github.com/member4) |
+| **Abhi**     | Full Stack Developer | [@abhitrambadiya](https://github.com/abhitrambadiya) |
+| **Shiv**     | Frontend Developer   | [@SP045](https://github.com/SP045)                   |
+| **Atharv**   | Full Stack Developer | [@atharv-shewale](https://github.com/atharv-shewale) |
+| **Tanishq**  | Database Specialist  | [@Tanishq-j](https://github.com/Tanishq-j) |
+| **Tanish**   | Full Stack Developer | [@Tanish-19](https://github.com/Tanish-19) |
 
 ### 🚀 How to Run Locally
 1. Clone this repository:
    ```sh
-   git clone https://github.com/YourOrgName/YourRepoName.git
-   cd YourRepoName
+   git clone https://github.com/BrainwaveBrigades/Back2Roots.git
+   cd Back2Roots
    ```
 2. Install dependencies:
    ```sh
