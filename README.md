@@ -26,7 +26,7 @@ We are a group of passionate developers collaborating to bring this project to l
 |     Name     |        Role          |                    GitHub Profile                    |
 |--------------|----------------------|------------------------------------------------------|
 | **Abhi**     | Backend Developer    | [@abhitrambadiya](https://github.com/abhitrambadiya) |
-| **Shiv**     | Backend Developer    | [@member2](https://github.com/member2) |
+| **Shiv**     | Frontend Developer   | [@member2](https://github.com/member2) |
 | **Atharv**   | Frontend Developer   | [@member3](https://github.com/member3) |
 | **Tanishq**  | Database Specialist  | [@member4](https://github.com/member4) |
 | **Tanish**   | Database Specialist  | [@member4](https://github.com/member4) |
